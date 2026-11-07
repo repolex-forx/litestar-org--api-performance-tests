@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/api-performance-tests/commit/956b96c0ce4015703704fac84a1653207445cc31",
       "git:hexsha": "956b96c0ce4015703704fac84a1653207445cc31",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
